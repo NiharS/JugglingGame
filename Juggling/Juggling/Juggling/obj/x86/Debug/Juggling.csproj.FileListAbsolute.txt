@@ -1,0 +1,8 @@
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\bin\x86\Debug\Content\ball.xnb
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\bin\x86\Debug\Content\hand.xnb
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\bin\x86\Debug\Juggling.exe
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\bin\x86\Debug\Juggling.pdb
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\obj\x86\Debug\Juggling.csprojResolveAssemblyReference.cache
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\obj\x86\Debug\Juggling.exe
+c:\users\nihar\documents\visual studio 2013\Projects\Juggling\Juggling\Juggling\obj\x86\Debug\Juggling.pdb
